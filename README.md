@@ -7,3 +7,7 @@ The project had following sections: Cycling Routes, Gallery, History and Online 
 I was assigned Online store section by the team - where i prototype a online store for buying different catogries of Tour De France products, and pay for it under some strict guidelines like the project must include polymorphism, inheritance etc.
 
 <img src="https://github.com/Virksaabnavjot/Tour-De-France-Java-eCommerce-Store/blob/master/Screenshot%202014-03-08%2015.27.37.png" >
+
+<img src="https://github.com/Virksaabnavjot/Tour-De-France-Java-eCommerce-Store/blob/master/Screenshot%202014-03-08%2023.29.34.png" >
+
+<img src="https://github.com/Virksaabnavjot/Tour-De-France-Java-eCommerce-Store/blob/master/Screenshot%202014-03-08%2023.29.23.png" >
