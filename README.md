@@ -11,3 +11,7 @@ I was assigned Online store section by the team - where i prototype a online sto
 <img src="https://github.com/Virksaabnavjot/Tour-De-France-Java-eCommerce-Store/blob/master/Screenshot%202014-03-08%2023.29.34.png" >
 
 <img src="https://github.com/Virksaabnavjot/Tour-De-France-Java-eCommerce-Store/blob/master/Screenshot%202014-03-08%2023.29.23.png" >
+
+
+
+Copyrights - Navjot Singh Virk (https://navjot.mrvirk.com & https://mrvirk.com)
